@@ -22,7 +22,7 @@ In this project, you will make use of Python to explore data related to bike sha
 
 ### Credits
 * The original repo of this is forked from can be found here: [link](https://github.com/udacity/pdsnd_github.git "Git")
-* [www.stackoverflow.com](www.stackoverflow.com)
+* www.stackoverflow.com
 * [Pandas documentation is very usefull](https://pandas.pydata.org/docs/)
 * [Python documentation for controlflow](https://docs.python.org/3/tutorial/controlflow.html)
 
