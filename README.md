@@ -26,3 +26,5 @@ In this project, you will make use of Python to explore data related to bike sha
 * [Numpy documentation.](https://numpy.org/doc/) (if needed)
 * [Python documentation for controlflow.](https://docs.python.org/3/tutorial/controlflow.html)
 
+# My Certificate of Completion
+<img src="Certificate/Certificate.jpg" width="1000">
