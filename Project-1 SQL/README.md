@@ -24,8 +24,6 @@ Source: http://www.postgresqltutorial.com/postgresql-sample-database/
    * SQL Project Report.pdf
 
 ### Credits:
-* The original repo of this is forked from can be found here: [link](https://github.com/udacity/pdsnd_github.git "Git")
-* If I have doubts about the errors occured while running the query I used: www.stackoverflow.com
 * [PostgreSQL documentation is very usefull.](https://www.postgresql.org/docs/12/index.html)
 * [SQL Style Guide](https://www.sqlstyle.guide/)
-
+* If I have doubts about the errors occured while running the query I used: www.stackoverflow.com
