@@ -1,5 +1,5 @@
 # Udacity-Programming-For-Data-Science-With-Python-Nanodegree
-<img src="Certificate/Temp/temp.jpg" width="1000">
+
 
 ## Created by Bal Yogesh Surath
 
