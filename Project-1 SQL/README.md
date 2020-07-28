@@ -13,7 +13,7 @@ In this project, you will use SQL to explore a database related to movie rentals
 * A text editor, like Sublime or Atom.
 
 ### DVD Rental ER Diagram for reference:
-<img src="Project-1 SQL/dvdrentalERD.png" width="1000">
+<img src="dvdrentalERD.png" width="1000">
 
 Source: http://www.postgresqltutorial.com/postgresql-sample-database/
 
