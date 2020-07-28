@@ -1,5 +1,5 @@
 # Udacity-Programming-For-Data-Science-With-Python-Nanodegree
-
+<img src="Certificate/Temp/temp.jpg" width="1000">
 
 ## Created by Bal Yogesh Surath
 
@@ -38,3 +38,6 @@ The developed CLI program allows the user to explore an US bikeshare system data
 This project consisted in using Git and GitHub with a simulated workflow to refactor Project 2.
 
 The Project Submission consisted in the filling of a template with all the Git commands used to perform the requested tasks.
+
+# My Certificate of Completion :tada:
+<img src="Certificate/Certificate.jpg" width="1000">
