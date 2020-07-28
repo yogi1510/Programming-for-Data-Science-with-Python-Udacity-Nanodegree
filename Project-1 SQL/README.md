@@ -8,12 +8,12 @@ In this project, you will use SQL to explore a database related to movie rentals
 
 ### List of software, firmware, hardware and database you may require:
 * Installing PostgreSQL for Windows: http://www.postgresqltutorial.com/install-postgresql/
-  Installing PostgreSQL for Mac OS : https://www.postgresql.org/download/macosx/
+* Installing PostgreSQL for Mac OS : https://www.postgresql.org/download/macosx/
 * You will need to download the Movie database from this page: [PostgreSQL Sample Database](https://www.postgresqltutorial.com/postgresql-sample-database/)
 * A text editor, like Sublime or Atom.
 
 ### DVD Rental ER Diagram for reference:
-<img src="Project-1 SQL/dvd-rental-ERD.png" width="1000">
+<img src="Project-1 SQL/dvdrentalERD.png" width="1000">
 
 Source: http://www.postgresqltutorial.com/postgresql-sample-database/
 

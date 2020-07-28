@@ -6,20 +6,22 @@
 This repository contains projects did for Udacity Programming For Data Science Using Python Nanodegree.
 
 
-## Project 1 : [Check My Project Submission Through This Link](https://github.com/yogi1510/Post-your-Work-on-GitHub/tree/master/Project-1%20SQL)
+## Project 1 :
+[Check My Project Submission Through This Link](https://github.com/yogi1510/Post-your-Work-on-GitHub/tree/master/Project-1%20SQL)
 
 ### Overview:
 
 This project consisted in the exploration of a provided database movie rentals in which the student had to run SQL queries and build visualizations to showcase the output of the student's queries. 
 
 For the presentation component, the student had to create four slides, and each should have 
-a. A question of interest.
-b. A supporting SQL query needed to answer the question.
-c. A supporting visualization created using the final data of the SQL queries that answer the questions of interest.
-d. A small summary on each slide.
+* A question of interest.
+* A supporting SQL query needed to answer the question.
+* A supporting visualization created using the final data of the SQL queries that answer the questions of interest.
+* A small summary on each slide.
 
 
-## Project 2 : [Check My Project Submission Through This Link](https://github.com/yogi1510/Post-your-Work-on-GitHub/tree/master/Project-2%20Python)
+## Project 2 :
+[Check My Project Submission Through This Link](https://github.com/yogi1510/Post-your-Work-on-GitHub/tree/master/Project-2%20Python)
 
 ### Overview:
 
@@ -28,7 +30,8 @@ In this project, you will make use of Python to explore data related to bike sha
 The developed CLI program allows the user to explore an US bikeshare system database and retrieve statistics information from the database. The user is able filter the information by city, month and weekday, in order to visualize statistics information related to a specific subset of data. The user is also able to chose to view raw data and to sort this data by columns, in ascending or descending order.
 
 
-## Project 3 : [Check My Project Submission Through This Link](https://github.com/yogi1510/Post-your-Work-on-GitHub/tree/master/Project-3%20GitHub)
+## Project 3 :
+[Check My Project Submission Through This Link](https://github.com/yogi1510/Post-your-Work-on-GitHub/tree/master/Project-3%20GitHub)
 
 ### Overview:
 
