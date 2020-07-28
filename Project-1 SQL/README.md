@@ -1,28 +1,31 @@
-### Date created
+### Date created:
 July.25 2020
 
 # Investigate a Relational Database
 
-### Description
+### Description:
 In this project, you will use SQL to explore a database related to movie rentals. You will write SQL code to run SQL queries and answer interesting questions about the database. As part of your project submission, you will run SQL queries and build visualizations to showcase the output of your queries.
 
-### List of software, firmware and hardware you may require.
-* You should have Python 3, NumPy, and pandas installed using Anaconda
+### List of software, firmware, hardware and database you may require:
+* Installing PostgreSQL for Windows: http://www.postgresqltutorial.com/install-postgresql/
+  Installing PostgreSQL for Mac OS : https://www.postgresql.org/download/macosx/
+* You will need to download the Movie database from this page: [PostgreSQL Sample Database](https://www.postgresqltutorial.com/postgresql-sample-database/)
 * A text editor, like Sublime or Atom.
-* A terminal application (Terminal on Mac and Linux or Cygwin on Windows).
 
-### Files used
-1. The following file contains necessary code:
-   * bikeshare.py	
-2. The following files are not uploaded to remote repo by using **.gitignore** because the files are too big:
-   * chicago.csv
-   * new_york_city.csv
-   * washington.csv
+### DVD Rental ER Diagram for reference:
+<img src="Project-1 SQL/dvd-rental-ERD.png" width="1000">
 
-### Credits
+Source: http://www.postgresqltutorial.com/postgresql-sample-database/
+
+### Files used:
+1. The following file contains necessary queries:
+   * Query.txt	
+2. The following file contains Visualisations of the resulted data from corresponding queries:
+   * SQL Project Report.pdf
+
+### Credits:
 * The original repo of this is forked from can be found here: [link](https://github.com/udacity/pdsnd_github.git "Git")
-* If I have doubts about the errors occured while running the code I used: www.stackoverflow.com
-* [Pandas documentation is very usefull.](https://pandas.pydata.org/docs/)
-* [Numpy documentation.](https://numpy.org/doc/) (if needed)
-* [Python documentation for controlflow.](https://docs.python.org/3/tutorial/controlflow.html)
+* If I have doubts about the errors occured while running the query I used: www.stackoverflow.com
+* [PostgreSQL documentation is very usefull.](https://www.postgresql.org/docs/12/index.html)
+* [SQL Style Guide](https://www.sqlstyle.guide/)
 

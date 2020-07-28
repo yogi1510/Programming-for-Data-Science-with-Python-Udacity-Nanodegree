@@ -1,30 +1,41 @@
-### Date created
-July.26 2020
+# Udacity-Programming-For-Data-Science-U sing-Python-Nanodegree
+<img src="Certificate/Temp/temp.jpg" width="1000">
 
-# Explore US Bikeshare Data
+## Created by Bal Yogesh Surath
 
-### Description
+This repository contains projects did for Udacity Programming For Data Science Using Python Nanodegree.
+
+
+## Project 1 : [Check My Project Submission Through This Link](https://github.com/yogi1510/Post-your-Work-on-GitHub/tree/master/Project-1%20SQL)
+
+### Overview:
+
+This project consisted in the exploration of a provided database movie rentals in which the student had to run SQL queries and build visualizations to showcase the output of the student's queries. 
+
+For the presentation component, the student had to create four slides, and each should have 
+a. A question of interest.
+b. A supporting SQL query needed to answer the question.
+c. A supporting visualization created using the final data of the SQL queries that answer the questions of interest.
+d. A small summary on each slide.
+
+
+## Project 2 : [Check My Project Submission Through This Link](https://github.com/yogi1510/Post-your-Work-on-GitHub/tree/master/Project-2%20Python)
+
+### Overview:
+
 In this project, you will make use of Python to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. You will write code to import the data and answer interesting questions about it by computing descriptive statistics. You will also write a script that takes in raw input to create an interactive experience in the terminal to present these statistics.
 
-### List of software, firmware and hardware you may require.
-* You should have Python 3, NumPy, and pandas installed using Anaconda
-* A text editor, like Sublime or Atom.
-* A terminal application (Terminal on Mac and Linux or Cygwin on Windows).
+The developed CLI program allows the user to explore an US bikeshare system database and retrieve statistics information from the database. The user is able filter the information by city, month and weekday, in order to visualize statistics information related to a specific subset of data. The user is also able to chose to view raw data and to sort this data by columns, in ascending or descending order.
 
-### Files used
-1. The following file contains necessary code:
-   * bikeshare.py	
-2. The following files are not uploaded to remote repo by using **.gitignore** because the files are too big:
-   * chicago.csv
-   * new_york_city.csv
-   * washington.csv
 
-### Credits
-* The original repo of this is forked from can be found here: [link](https://github.com/udacity/pdsnd_github.git "Git")
-* If I have doubts about the errors occured while running the code I used: www.stackoverflow.com
-* [Pandas documentation is very usefull.](https://pandas.pydata.org/docs/)
-* [Numpy documentation.](https://numpy.org/doc/) (if needed)
-* [Python documentation for controlflow.](https://docs.python.org/3/tutorial/controlflow.html)
+## Project 3 : [Check My Project Submission Through This Link](https://github.com/yogi1510/Post-your-Work-on-GitHub/tree/master/Project-3%20GitHub)
 
-# My Certificate of Completion
+### Overview:
+
+This project consisted in using Git and GitHub with a simulated workflow to refactor Project 2.
+
+The Project Submission consisted in the filling of a template with all the Git commands used to perform the requested tasks.
+
+
+# My Certificate of Completion :tada:
 <img src="Certificate/Certificate.jpg" width="1000">
